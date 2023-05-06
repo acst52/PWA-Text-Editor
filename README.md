@@ -7,7 +7,7 @@
 In this Module 19 Challenge, we used an [existing application's starter code](https://github.com/coding-boot-camp/cautious-meme) to build a single-page Progressive Web Application (PWA): a text editor that can be used online or installed and used locally, offline! We implemented methods for getting and storing data to an IndexedDB database using a package called `idm`. This app was deployed on Heroku, so you can visit it here:
 
 
-[![J.A.T.E. Text Editor](IMAGE LINK HERE)](https://pure-fjord-54277.herokuapp.com/)
+[![J.A.T.E. Text Editor](https://user-images.githubusercontent.com/116177485/236590010-d8ce99b0-1927-474d-a90f-68b602037fd4.png)](https://pure-fjord-54277.herokuapp.com/)
 
 ## Table of Contents
 
